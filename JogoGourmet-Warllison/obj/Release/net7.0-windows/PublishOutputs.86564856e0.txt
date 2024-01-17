@@ -1,0 +1,5 @@
+C:\Desenvolvimento\JogoGourmet-Warllison\publicacao\JogoGourmet-Warllison.exe
+C:\Desenvolvimento\JogoGourmet-Warllison\publicacao\JogoGourmet-Warllison.dll
+C:\Desenvolvimento\JogoGourmet-Warllison\publicacao\JogoGourmet-Warllison.deps.json
+C:\Desenvolvimento\JogoGourmet-Warllison\publicacao\JogoGourmet-Warllison.runtimeconfig.json
+C:\Desenvolvimento\JogoGourmet-Warllison\publicacao\JogoGourmet-Warllison.pdb

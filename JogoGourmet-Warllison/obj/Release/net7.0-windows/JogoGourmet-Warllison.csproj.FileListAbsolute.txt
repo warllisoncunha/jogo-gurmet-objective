@@ -1,0 +1,17 @@
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\bin\Release\net7.0-windows\JogoGourmet-Warllison.exe
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\bin\Release\net7.0-windows\JogoGourmet-Warllison.deps.json
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\bin\Release\net7.0-windows\JogoGourmet-Warllison.runtimeconfig.json
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\bin\Release\net7.0-windows\JogoGourmet-Warllison.dll
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\bin\Release\net7.0-windows\JogoGourmet-Warllison.pdb
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\JogoGourmet-Warllison.csproj.AssemblyReference.cache
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\JogoGourmet_Warllison.Principal.resources
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\JogoGourmet-Warllison.csproj.GenerateResource.cache
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\JogoGourmet-Warllison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\JogoGourmet-Warllison.AssemblyInfoInputs.cache
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\JogoGourmet-Warllison.AssemblyInfo.cs
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\JogoGourmet-Warllison.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\JogoGourmet-Warllison.dll
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\refint\JogoGourmet-Warllison.dll
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\JogoGourmet-Warllison.pdb
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\JogoGourmet-Warllison.genruntimeconfig.cache
+C:\Desenvolvimento\JogoGourmet-Warllison\JogoGourmet-Warllison\obj\Release\net7.0-windows\ref\JogoGourmet-Warllison.dll
